@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#FFBC5B"                # Golden Peach (main highlight)
+backgroundColor = "#FFF7ED"             # Soft Cream (main background)
+secondaryBackgroundColor = "#FFE3B3"    # Warm Pastel Peach (cards/sidebar)
+textColor = "#4B2E19"                   # Deep Mocha Brown (readable text)
+font = "sans serif"

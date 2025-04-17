@@ -15,22 +15,3 @@
 
 ---
 
-## 📂 Project Structure
-
-FORECASTING_SYSTEM/
-│
-├── .streamlit/                      # Streamlit config folder
-├── jupyter file/                    # Notebooks for data exploration and modeling
-│   ├── cosmetic_bodycare_...ipynb
-│   ├── month_forecasting.ipynb
-│
-├── pages/                           # Streamlit pages
-│   ├── cosmetic_bodycare_...xlsx    # Dataset in Excel format
-│   ├── Inventory_Log.py             # Stock risk detection and alerts
-│   ├── Quick_Forecast.py            # Forecasting insights (text-based)
-│   ├── Visual_Insights.py           # Forecasting insights (graphs and visuals)
-|   ├── Vyaapar_Bot.py               # AI-powered assistant using RAG
-|
-├── Home.py                          # Streamlit landing page
-├── pic.jpg                          # Optional image asset
-├── README.md          
